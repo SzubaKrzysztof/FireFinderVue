@@ -1,0 +1,1066 @@
+{
+  "GBA-4.1/32-IVECO": {
+    "data": {
+      "KABINA": [
+        {
+          "nazwa": "Aparat fotograficzny FUJI XP80",
+          "ilość": 1,
+          "uwagi": "półka"
+        },
+        {
+          "nazwa": "Reflektor do podświetlania",
+          "ilość": 1,
+          "uwagi": "półka"
+        },
+        {
+          "nazwa": "Lornetka",
+          "ilość": 1,
+          "uwagi": "półka"
+        },
+        {
+          "nazwa": "Zabawka  Maskotka",
+          "ilość": 3,
+          "uwagi": "półka"
+        },
+        {
+          "nazwa": "Wideorejestrator Mio",
+          "ilość": 1,
+          "uwagi": "szyba"
+        },
+        {
+          "nazwa": "Tablet Senter",
+          "ilość": 1,
+          "uwagi": "S 917 V9"
+        },
+        {
+          "nazwa": "Radiotelefon nasobny DP4601",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Radiotelefon nasobny DP4601",
+          "ilość": 3,
+          "uwagi": "821TWP4800,821TWP5041, 821TWP5134"
+        },
+        {
+          "nazwa": "Mikrofonogłosnik MOTOTBRBO do radiotelefonu nasobnego ",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Ładowarka do radiotelefonu nasobnego ",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Radiotelefon nasobny leśny",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Mikrofonogłośnik do radiotelefonów nasobnych",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Latarka Survivor z ładowarką",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Latarka Streamlight Vulcan LED",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Dokumentacja operacyjna",
+          "ilość": 1,
+          "uwagi": "czerwona teczka"
+        },
+        {
+          "nazwa": "Książka \"Zasady postępowania ratowniczego\"",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kamizelka KDR",
+          "ilość": 1,
+          "uwagi": "poziom interwencyjny"
+        },
+        {
+          "nazwa": "Pilot do wciągarki",
+          "ilość": 1,
+          "uwagi": "drzwi kierowcy"
+        },
+        {
+          "nazwa": "Klucz do szlabanów leśnych",
+          "ilość": 1,
+          "uwagi": "drzwi d-dcy"
+        },
+        {
+          "nazwa": "Klucz do wind",
+          "ilość": 1,
+          "uwagi": "drzwi d-dcy"
+        },
+        {
+          "nazwa": "Klucz do bramy awaryjnej Via Carpatia S19",
+          "ilość": 1,
+          "uwagi": "drzwi d-dcy"
+        },
+        {
+          "nazwa": "Kamizelka z rzutka",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lampa sygnalizacyjna (lizak)",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Detektor napięcia AC HOT Stick",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Taśma do otwierania drzwi",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Torba z opatrunkami",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kołnierze ortopedyczne",
+          "ilość": 3,
+          "uwagi": "czerwona torba"
+        },
+        {
+          "nazwa": "Aparaty nadciśnieniowe AUER ",
+          "ilość": 4,
+          "uwagi": "jeden przeniesiony do aparat."
+        },
+        {
+          "nazwa": "Zestaw do segregacji TRIAGE",
+          "ilość": 1,
+          "uwagi": "czerwona torba"
+        },
+        {
+          "nazwa": "Defibrylator AED",
+          "ilość": 1,
+          "uwagi": "pomarańczowa walizka"
+        },
+        {
+          "nazwa": "Flary ostrzegawcze z ładowarką 12V i 230V",
+          "ilość": "2x6szt",
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Koc wełniany",
+          "ilość": 2,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Podnośnik samochodowy",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Przewód do pompowania kół z adapterem",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Trójkąt ostrzegawczy",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Latarka sygnalizacyjna",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Gaśnica samochodowa ",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Apteczka samochodowa",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Kamizelka odblaskowa",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Zestaw kluczy samochodowych + śrubokręt",
+          "ilość": "3+1",
+          "uwagi": " futerał pod siedzeniem"
+        },
+        {
+          "nazwa": "Dźwignia do podnoszenia kabiny",
+          "ilość": 2,
+          "uwagi": "pod siedzeniem załogi"
+        },
+        {
+          "nazwa": "Zaczep",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem załogi"
+        }
+      ],
+      "D1": [
+        {
+          "nazwa": "Parawan osłaniający",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Zbiornik brezentowy Z-2500",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wanna rozkładana do  ropopochodnych",
+          "ilość": 1,
+          "uwagi": "biały worek"
+        },
+        {
+          "nazwa": "Skrzynka plastikowa czerwona:"
+        },
+        {
+          "nazwa": "Ubrania ochronne Tyvek",
+          "ilość": 4,
+          "uwagi": "białe - covidowe"
+        },
+        {
+          "nazwa": "Ubrania przeciwochlapaniowe Pro-chem XXL",
+          "ilość": 2,
+          "uwagi": "pomarańczowe"
+        },
+        {
+          "nazwa": "Ubranie przeciwochlapaniowe Tychem"
+        },
+        {
+          "nazwa": "Folia na zwłoki ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Buty chemoodporne",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Buty wodery piersiowe",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Ubranie żaroochronne ",
+          "ilość": 1,
+          "uwagi": "lekkie"
+        },
+        {
+          "nazwa": "Gaśnica proszkowa GP6xABC",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Wentylator oddymiający MT 236 + przełącznik 52/25",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Agregat prądotwórczy przenośny F201IS FOGO",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przedłużacz sieciowy 50m",
+          "ilość": 1,
+          "uwagi": "wtyk obudowa Ex"
+        },
+        {
+          "nazwa": "Miotła",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Opryskiwacz ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Dyspergent 5dm3",
+          "ilość": 1
+        }
+      ],
+      "D2": [
+        {
+          "nazwa": "Siodełko wężowe",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Opalarka 230V",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Taśma asekuracyjna (zawiesie) 3m/12t.",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Hełm strażacki z łącznością podhełmową  F1 OSTEO",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Linka gospodarcza ZL-30",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Linka do odwadniania linii ssawnej",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pas strażacki (pochewka, podpinka, toporek, zatrzaśnik)",
+          "ilość": 4,
+          "uwagi": "komplet"
+        },
+        {
+          "nazwa": "Wąż tłoczny W42",
+          "ilość": 5
+        },
+        {
+          "nazwa": "Wąż tłoczny W75",
+          "ilość": 5
+        },
+        {
+          "nazwa": "Przedłużacz sieciowy 20m/50m",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pachołki ostrzegawcze",
+          "ilość": 5
+        },
+        {
+          "nazwa": "Skrzynka narzędziowa",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Walizka aluminiowa "
+        },
+        {
+          "nazwa": "Kapnograf przenośny z pulsoksymetrem",
+          "ilość": 1,
+          "uwagi": "UT 100C"
+        },
+        {
+          "nazwa": "Miernik gazu MX6 z ładowarką (akcesoria)",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Radiometr Cyfrowy EKO-D",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przetwornica 24/230V 150 W",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Ładowarka Mactronic 12V i 230V",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Megafon",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Łączność podhełmowa F1 Osteo",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Walizka czarna",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kamera termowizyjna",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Ładowarka do baterii 12V i 230V",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Bateria zapasowa",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Karabinek",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wkrętarka makita",
+          "ilość": 1,
+          "uwagi": "walizka"
+        },
+        {
+          "nazwa": "Piła szablasta ",
+          "ilość": 1,
+          "uwagi": "walizka"
+        }
+      ],
+      "D3": [
+        {
+          "nazwa": "Wytwornica pianowa WP2/75",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nakładka do prądownicy G-Force ",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Prądownica PWT75 AWG",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż tłoczny W42",
+          "ilość": 4
+        },
+        {
+          "nazwa": "Wąż tłoczny W75",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Szybkie natarcie + prądownica",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Korba do zwijania szybkiego natarcia",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lanca kominowa wygięta",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Prądownica PWT52 QUADROFOG",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Prądownica wodno-pianowa TURBOMATIC",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Prądownica G-Force ",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Nakładka pianowa do prądownicy ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Rozdzielacz kulowy 75/52-75-52",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Zbieracz ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Zasysacz liniowy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż do zasysania środka pian. W25",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż do zasysania środka pian. W52",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kurtyna wodna 52",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Smok ssawny 110 prosty",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Smok ssawny 110 skośny",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przełącznik 52/25",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przełącznik 75/52",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż ogrodowy",
+          "ilość": 1
+        }
+      ],
+      "K3": [
+        {
+          "nazwa": "Butle zapasowe",
+          "ilość": 4
+        },
+        {
+          "nazwa": "Nosze płachtowe z kieszenią na nogi",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Zestaw PSP R1:"
+        },
+        {
+          "nazwa": "Torba plecakowa",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Deska ortopedyczna",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Szyny Kramera ",
+          "ilość": 14,
+          "uwagi": "skrytka nr 7 - za kierowacą"
+        },
+        {
+          "nazwa": "Pulsoksymetr Creative ",
+          "ilość": 1,
+          "uwagi": "PC-80 NW Bluetooth"
+        },
+        {
+          "nazwa": "Pas do unieruchomienia miednicy ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Deska pediatryczna",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Deska ortopedyczna pediatryczna",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nosze podbierakowe",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pompa szlamowa Honda WT20 X ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Sorbent 20kg",
+          "ilość": 1,
+          "uwagi": "pojemnik plastikowy"
+        },
+        {
+          "nazwa": "Przełącznik 75/52",
+          "ilość": 2
+        }
+      ],
+      "K2": [
+        {
+          "nazwa": "Hooligan duży",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Hooligan mały ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Młot 4 kg Fiskars",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nożyce do drutu małe",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nożyce do drutu duże",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Siekeria Fiskars",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Topór Fiskars",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Topór nieiskrzący",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kilof Fiskars",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Łom nieiskrzący ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Topór PARATECH",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pompa zatapialna UNIQUA J20S",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Bosak podręczny",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Stojak hydrantowy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Klucz do hydrantu podziemnego",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Prądownica pianowa PP2",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przystawka pianowa  do wentylatora ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Skrzynka z narzędziami nieiskrzącymi:",
+          "ilość": 1
+        },
+        {
+          "nazwa": "przecinak",
+          "ilość": 1
+        },
+        {
+          "nazwa": "młotek",
+          "ilość": 1
+        },
+        {
+          "nazwa": "szczypce nastwane",
+          "ilość": 1
+        },
+        {
+          "nazwa": "śrubokręt płaski",
+          "ilość": 1
+        },
+        {
+          "nazwa": "klucz nastawny",
+          "ilość": 1
+        },
+        {
+          "nazwa": "klucz hakowy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "klucz do beczek",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Słuchawki ochronne ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Akcesoria do pił do drewna:"
+        },
+        {
+          "nazwa": "pilnik do ostrzenia łańcucha",
+          "ilość": 1
+        },
+        {
+          "nazwa": "łańcuch zapasowy",
+          "ilość": 2
+        },
+        {
+          "nazwa": "klucz do piły",
+          "ilość": 2
+        },
+        {
+          "nazwa": "świeca zapłonowa",
+          "ilość": 3
+        },
+        {
+          "nazwa": "blokada tarczy do TS400",
+          "ilość": 1
+        },
+        {
+          "nazwa": "kliny do drewna",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Olej do smarowania łańcucha w pilarce 1dm3",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kanister metalowy 5dm3",
+          "ilość": 1,
+          "uwagi": "benzyna"
+        },
+        {
+          "nazwa": "Kanister metalowy 5dm3",
+          "ilość": 1,
+          "uwagi": "mieszanka 1:50"
+        },
+        {
+          "nazwa": "Lejek",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Pilarka do drewna STIHL MS230",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pilarka do drewna STIHL MS260",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przecinarka tarczowa STIHL TS400",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Tarcze do przecinarki",
+          "ilość": 2
+        }
+      ],
+      "K1": [
+        {
+          "nazwa": "Pompa beczkowa Lutz Niro ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przewód do pompy beczkowe z pistoletem",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Chwytak na zwierzęta",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kamizelka usztywniająca KED",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wspornik do rozpieracza kolumnowego",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kliny do stablizacji",
+          "ilość": 8
+        },
+        {
+          "nazwa": "Podkład płaski",
+          "ilość": 6
+        },
+        {
+          "nazwa": "Podkład schodkowy",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Wyważacz do drzwi Lukas HTS 90",
+          "ilość": 1,
+          "uwagi": "pompa+przewód"
+        },
+        {
+          "nazwa": "Mata na narzędzia Holmatro",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przewód hydrauliczny C10 OU CORE ",
+          "ilość": 2,
+          "uwagi": "10m"
+        },
+        {
+          "nazwa": "Zabezpieczenie poduszki kierowcy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wybijak do szyb",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Adapter łańcuchowy do rozp.  kolumn.",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Adapter łańcuchowy do rozp. ramien.",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Łańcuch do ciągnięcia",
+          "ilość": 2,
+          "uwagi": "1,6m"
+        },
+        {
+          "nazwa": "Łańcuch do ciągnięcia",
+          "ilość": 2,
+          "uwagi": "3m"
+        },
+        {
+          "nazwa": "Zblocze do lin",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Taśma ostrzegawcza",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pompa hydraulicza Holmatro PU30C",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nożyce hydrauliczne CU4035C",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Rozpieracz ramieniowy SP 424C",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Rozpieracz kolumnowy RA 4332C",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Piła do cięcia szyb klejonych",
+          "ilość": 1
+        }
+      ],
+      "TYŁ": [
+        {
+          "nazwa": "Poduszka pneumatyczna HLB 10",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Poduszka pneumatyczna HLB 20",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Skrzynka pomarańczowa: zestaw pneumatyczny",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Reduktor ciśnienia",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Sterownik pneumatyczny podwójny ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przewody pneumatyczne",
+          "ilość": 2,
+          "uwagi": "niebieski, żółty"
+        },
+        {
+          "nazwa": "Przewód z zaworem",
+          "ilość": 1,
+          "uwagi": "odłączanie  poduszki"
+        },
+        {
+          "nazwa": "Pisotlet pneumatyczny",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Złączka",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Skrzynka niebieska: zestaw wysokościowy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Worek jaskiniowy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lina statyczna 50m + 2 karabinki",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lina statyczna 20m",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Taśma asekuracyjna",
+          "ilość": 6,
+          "uwagi": "czarna 1,2m"
+        },
+        {
+          "nazwa": "ID +Lonża regulowana + karabinek",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kask",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Uprząż ratownicza",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Linka strażacka L-30",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nasadki do klucza hydrantowego podziemnego",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Klucz do hydrantu naziemnego ",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Klucz do łączników ",
+          "ilość": 4
+        },
+        {
+          "nazwa": "Przełącznik 110/75",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przełącznik 110/75",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż W75 do tankowania ",
+          "ilość": 1
+        }
+      ],
+      "DACH": [
+        {
+          "nazwa": "Drabina DNW3080",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Bosak ciężki",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż ssawny Ws52 ze smokiem skośnym",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Mostki przejazdowe gumowe",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Wąż ssawny Ws110",
+          "ilość": 2,
+          "uwagi": "2,4m"
+        },
+        {
+          "nazwa": "Działko DWP 16",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nakładka pianowa do DWP",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Drabina nasadkowa",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Pływak",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Skrzynia"
+        },
+        {
+          "nazwa": "Wytwornica pianowa WP4/75",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Widły Fiskars",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Łopata Fiskars",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Łopata piaskowa Fiskars",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Szufla Fiskars ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lina holownicza 22x6m",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lina stalowa ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kopacz",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Łom",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Łom (łapa do wyciągania gwoździ) ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Tłumica teleskopowa gumowa",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Drażek izolacyjny - teleskopowy - bosak",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Tłumica metalowa",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wykaz na dzień 20.03.2023 r."
+        },
+        {
+          "nazwa": "Radiotelefon przewoźny GM360",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Latarka StreamLight ",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Prądownica PWT52 Supon",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Prądownica POK 52",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pompa szlamowa 2G3",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Lodówka samochodowa",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Łączność podhełmowa ",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Łączność podhełmowa ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Agregat prądotwórczy przenośny 2kVA KIPOR IG2000",
+          "ilość": 1,
+          "uwagi": "garaż przy namiocie"
+        },
+        {
+          "nazwa": "Zasysacz liniowy Z4 AWG",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Ubranie przeciwochlapaniowe Tychem",
+          "ilość": 2,
+          "uwagi": "żółte + taśma"
+        },
+        {
+          "nazwa": "Boska dielektryczny handle cz. 1 + pike cz. 2",
+          "ilość": "komplet"
+        }
+      ]
+    }
+  }
+}

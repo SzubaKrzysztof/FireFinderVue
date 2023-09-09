@@ -1,0 +1,238 @@
+{
+  "SHD-25": {
+    "data": {
+      "KABINA": [
+        {
+          "nazwa": "Radiotelefon GM 360",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Terminal DTS 3001",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Dokumentacja",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Szperacz",
+          "ilość": 1,
+          "uwagi": "za siedzeniami"
+        },
+        {
+          "nazwa": "Radiotelefon przenośny",
+          "ilość": 3,
+          "uwagi": "za siedzeniami"
+        },
+        {
+          "nazwa": "Apteczka samochodowa",
+          "ilość": 1,
+          "uwagi": "za siedzeniami"
+        },
+        {
+          "nazwa": "Miotełka",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem ratownika"
+        },
+        {
+          "nazwa": "Podnośnik hydrauliczny 10t",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Gaśnica samochodowa GP2x",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Halogen do kosza",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Trójkąt ostrzegawczy",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Lampa sygnalizacyjna",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Latarka Streamlight Vulcan Led",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Wąż do pompowania kół z pistoletem",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Zestaw kluczy samochodowych",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        },
+        {
+          "nazwa": "Taśma ostrzegawcza",
+          "ilość": 1,
+          "uwagi": "pod siedzeniem d-cy"
+        }
+      ],
+      "D1": [
+        {
+          "nazwa": "Aparaty nadciśnieniowe ( 10,11,12)",
+          "ilość": 3
+        }
+      ],
+      "D2": [
+        {
+          "nazwa": "Szpadel",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Rura spalinowa do agregatu",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pachołki drogowe",
+          "ilość": 3
+        },
+        {
+          "nazwa": "Uprząż Profiworker 3D standard",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Absorber energii",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Szufelka",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Klucz do opuszczania koła",
+          "ilość": 1
+        }
+      ],
+      "K1": [
+        {
+          "nazwa": "pilarka stihl MS 440",
+          "ilość": 1
+        },
+        {
+          "nazwa": "pilarka stihl MS 230",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Pilarka Stihl MS194",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Śledz do uziemienia z przewodem",
+          "ilość": 1
+        },
+        {
+          "nazwa": "wąż tłoczny W- 75",
+          "ilość": 2
+        },
+        {
+          "nazwa": "wąż tłoczny W- 52",
+          "ilość": 2
+        },
+        {
+          "nazwa": "wąż tłoczny W- 25",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Prądownica TURBO JET QUADROFOG 52",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Siekiera Fiskars",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Gaśnica proszkowa GP6",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Prądownica prosta 25",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Przełącznik 25/52",
+          "ilość": 2,
+          "uwagi": "jeden pod prądownicą, drugi w kieszeni"
+        },
+        {
+          "nazwa": "Olej do smarowania łańcucha, kanister 5L",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Nakładka do działka ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Klucz do łączników ",
+          "ilość": 2,
+          "uwagi": "kieszeń "
+        },
+        {
+          "nazwa": "Klucz do świec",
+          "ilość": 1,
+          "uwagi": "kieszeń "
+        },
+        {
+          "nazwa": "Łańcuch zapasowy do pilarki",
+          "ilość": 2,
+          "uwagi": "kieszeń "
+        },
+        {
+          "nazwa": "Kanister 5L z mieszanką ",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Kanister 5L czysta",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Klin do ścinania drzew",
+          "ilość": 1
+        },
+        {
+          "nazwa": "Klucz do pilarki",
+          "ilość": 1,
+          "uwagi": "wkrętak"
+        }
+      ],
+      "DACH": [
+        {
+          "nazwa": "podkłady do podpór",
+          "ilość": 4
+        },
+        {
+          "nazwa": "mocowanie noszy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "drabinka",
+          "ilość": 1
+        },
+        {
+          "nazwa": "agregat prądotwórczy",
+          "ilość": 1
+        },
+        {
+          "nazwa": "kliny pod koła",
+          "ilość": 2
+        },
+        {
+          "nazwa": "Deska Ferno z pasami",
+          "ilość": "kpl",
+          "uwagi": "na łódce"
+        }
+      ]
+    }
+  }
+}
